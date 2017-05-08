@@ -1,6 +1,7 @@
 # @chemistry/space-groups
-Crystallography: Space Groups list;
 [![Build Status](https://travis-ci.com/vreshch/space-groups.svg?token=KeX5irpaztoiyZmMEffK&branch=master)](https://travis-ci.com/vreshch/space-groups)
+
+Crystallography: Space Groups list;
 
 ## Technical description :
   * Typescript 2.1 (export typings)
