@@ -3,7 +3,7 @@
 
 Crystallography: Space Groups list;
 
-## Technical description :
+## Technical description:
   * Typescript 2.1 (export typings)
   * Isomorphic (can be used with node & with browsers )
   * Compiled to UMD (can be used as CommonJS, AMD & direct module include syntax)
@@ -12,7 +12,7 @@ Crystallography: Space Groups list;
   * SpaceGroup
   * SpaceGroupData (json with information)
 
-## How to use
+## How to use:
 ```javascript
 import { SpaceGroup }  from 'space-groups';
 ```
