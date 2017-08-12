@@ -1,4 +1,4 @@
-# @chemistry/space-groups
+# @crystallography/space-groups
 [![Build Status](https://travis-ci.com/vreshch/space-groups.svg?token=KeX5irpaztoiyZmMEffK&branch=master)](https://travis-ci.com/vreshch/space-groups)
 
 Crystallography: Space Groups list;
