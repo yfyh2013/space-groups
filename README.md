@@ -1,5 +1,8 @@
 # @crystallography/space-groups
-[![Build Status](https://travis-ci.com/vreshch/space-groups.svg?token=KeX5irpaztoiyZmMEffK&branch=master)](https://travis-ci.com/vreshch/space-groups)
+
+[![npm version](https://badge.fury.io/js/%40crystallography%2Fspace-groups.svg)](https://badge.fury.io/js/%40crystallography%2Fspace-groups)
+[![Build Status](https://travis-ci.org/crystallography/space-groups.svg?branch=master)](https://travis-ci.org/crystallography/space-groups)
+[![codecov](https://codecov.io/gh/crystallography/space-groups/branch/master/graph/badge.svg)](https://codecov.io/gh/crystallography/space-groups)
 
 Crystallography: Space Groups list;
 
