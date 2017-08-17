@@ -15,6 +15,16 @@ Crystallography: Space Groups list;
 ## How to use:
 ```javascript
 import { SpaceGroup }  from 'space-groups';
+
+const sg = SpaceGroup.getByHMName('P -1');
+
+console.log(sg.id); // 2
+console.log(sg.hermannMauguin); // P -1
+console.log(sg.hallSymbol); // -P 1
+console.log(sg.symetryList); // [ 'x,y,z', '-x,-y,-z' ]
+console.log(sg.representativeOperations); // 1
+console.log(sg.getCrystalSystem()); // Triclinic
+
 ```
 
 ## Commands:

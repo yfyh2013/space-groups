@@ -7,6 +7,7 @@ temp
 docs
 TODO
 lib/*
+dist/*
 # Sublime text project space
 *.sublime-workspace
 *.sublime-project

@@ -7,7 +7,7 @@
         "sourceMap": true,
         "declaration": true,
         "types": ["jasmine"],
-        "outDir": "lib"
+        "outDir": "dist"
     },
 
     "rules": {

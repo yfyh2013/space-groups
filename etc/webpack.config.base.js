@@ -3,12 +3,12 @@ const path = require('path');
 module.exports = {
 
     entry: {
-        'space-groups': path.resolve(__dirname, '../src/SpaceGroups')
+        'SpaceGroup': path.resolve(__dirname, '../src/SpaceGroup')
     },
 
     output: {
         path: path.resolve(__dirname, '../dist'),
-        filename: "[name].js",
+        filename: "SpaceGroup.js",
         libraryTarget: 'umd',
         library: 'spaceGroups',
         umdNamedDefine: true
