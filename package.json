@@ -1,6 +1,6 @@
 {
     "name": "@crystallography/space-groups",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "List of space groups with symetry codes",
     "author": {
         "name": "Volodymyr Vreshch",
@@ -11,7 +11,6 @@
         "crystallography",
         "space groups"
     ],
-    "private": true,
     "main": "dist/SpaceGroup.min.js",
     "typings": "dist/SpaceGroup.d.ts",
     "scripts": {
