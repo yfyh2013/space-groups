@@ -1,6 +1,6 @@
 {
     "name": "@crystallography/space-groups",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "List of space groups with symetry codes",
     "author": {
         "name": "Volodymyr Vreshch",
