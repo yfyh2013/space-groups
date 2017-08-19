@@ -1,6 +1,6 @@
 {
     "name": "@crystallography/space-groups",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "List of space groups with symetry codes",
     "author": {
         "name": "Volodymyr Vreshch",
@@ -26,7 +26,8 @@
         "tdd": "karma start etc/karma.conf.js --auto-watch ",
         "lint": "tslint 'src/**/*.ts' ",
         "lintfix": "tslint 'src/**/*.ts' --fix",
-        "codecov": "codecov -t 183fe4ef-1005-4afe-a497-44206ed48bd9 < coverage/lcov.info"
+        "codecov": "codecov -t 183fe4ef-1005-4afe-a497-44206ed48bd9 < coverage/lcov.info",
+        "do-publish": "npm run build && npm publish"
     },
     "dependencies": {
         "babel-cli": "6.24.1",
