@@ -1,6 +1,6 @@
 {
     "name": "@crystallography/space-groups",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "List of space groups with symetry codes",
     "author": {
         "name": "Volodymyr Vreshch",
@@ -30,6 +30,8 @@
         "do-publish": "npm run build && npm publish"
     },
     "dependencies": {
+    },
+    "devDependencies": {
         "babel-cli": "6.24.1",
         "babel-core": "6.25.0",
         "babel-loader": "7.1.1",
